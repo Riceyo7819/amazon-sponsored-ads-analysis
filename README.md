@@ -5,10 +5,9 @@ The objective of this project is to identify:
 - potential opportunities for bid adjustment and negative keyword optimization
 
 ## Files
-- `data/sample_amazon_search_term_report.xlsx` — anonymized sample dataset
-- `notebooks/amazon_ads_analysis.ipynb` — full analysis workflow in Jupyter Notebook
-- `reports/Amazon_Sponsored_Ads_Analysis.html` — final HTML report
-- `images/project-cover.png` — project visualization preview
+- `sample_amazon_search_term_report.xlsx` — anonymized sample dataset
+- `amazon_ads_analysis.ipynb` — full analysis workflow in Jupyter Notebook
+- `index.html` — final HTML report
 
 ## Key Metrics
 - Impressions
